@@ -1,0 +1,5 @@
+﻿  task3.cpp
+C:\Users\Snake\Desktop\lab_01\task3\task3.cpp(10,23): warning C4309: 'initializing': truncation of constant value
+C:\Users\Snake\Desktop\lab_01\task3\task3.cpp(12,30): warning C4305: 'initializing': truncation from 'int' to 'signed char'
+C:\Users\Snake\Desktop\lab_01\task3\task3.cpp(12,26): warning C4309: 'initializing': truncation of constant value
+  task3.vcxproj -> C:\Users\Snake\Desktop\lab_01\x64\Debug\task3.exe

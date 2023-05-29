@@ -1,0 +1,15 @@
+C:\ЖДТУ\1 курс\2 семестр\АтаСД\Lab_04\Lab_04\task_2\bin\Debug\net6.0\task_2.exe
+C:\ЖДТУ\1 курс\2 семестр\АтаСД\Lab_04\Lab_04\task_2\bin\Debug\net6.0\task_2.deps.json
+C:\ЖДТУ\1 курс\2 семестр\АтаСД\Lab_04\Lab_04\task_2\bin\Debug\net6.0\task_2.runtimeconfig.json
+C:\ЖДТУ\1 курс\2 семестр\АтаСД\Lab_04\Lab_04\task_2\bin\Debug\net6.0\task_2.dll
+C:\ЖДТУ\1 курс\2 семестр\АтаСД\Lab_04\Lab_04\task_2\bin\Debug\net6.0\task_2.pdb
+C:\ЖДТУ\1 курс\2 семестр\АтаСД\Lab_04\Lab_04\task_2\obj\Debug\net6.0\task_2.csproj.AssemblyReference.cache
+C:\ЖДТУ\1 курс\2 семестр\АтаСД\Lab_04\Lab_04\task_2\obj\Debug\net6.0\task_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\ЖДТУ\1 курс\2 семестр\АтаСД\Lab_04\Lab_04\task_2\obj\Debug\net6.0\task_2.AssemblyInfoInputs.cache
+C:\ЖДТУ\1 курс\2 семестр\АтаСД\Lab_04\Lab_04\task_2\obj\Debug\net6.0\task_2.AssemblyInfo.cs
+C:\ЖДТУ\1 курс\2 семестр\АтаСД\Lab_04\Lab_04\task_2\obj\Debug\net6.0\task_2.csproj.CoreCompileInputs.cache
+C:\ЖДТУ\1 курс\2 семестр\АтаСД\Lab_04\Lab_04\task_2\obj\Debug\net6.0\task_2.dll
+C:\ЖДТУ\1 курс\2 семестр\АтаСД\Lab_04\Lab_04\task_2\obj\Debug\net6.0\refint\task_2.dll
+C:\ЖДТУ\1 курс\2 семестр\АтаСД\Lab_04\Lab_04\task_2\obj\Debug\net6.0\task_2.pdb
+C:\ЖДТУ\1 курс\2 семестр\АтаСД\Lab_04\Lab_04\task_2\obj\Debug\net6.0\task_2.genruntimeconfig.cache
+C:\ЖДТУ\1 курс\2 семестр\АтаСД\Lab_04\Lab_04\task_2\obj\Debug\net6.0\ref\task_2.dll
