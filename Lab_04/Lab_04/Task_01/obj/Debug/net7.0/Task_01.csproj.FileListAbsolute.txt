@@ -1,5 +1,0 @@
-C:\Snake\Uniwers\ATCHD\Lab_04\Lab_04\Task_01\obj\Debug\net7.0\Task_01.csproj.AssemblyReference.cache
-C:\Snake\Uniwers\ATCHD\Lab_04\Lab_04\Task_01\obj\Debug\net7.0\Task_01.GeneratedMSBuildEditorConfig.editorconfig
-C:\Snake\Uniwers\ATCHD\Lab_04\Lab_04\Task_01\obj\Debug\net7.0\Task_01.AssemblyInfoInputs.cache
-C:\Snake\Uniwers\ATCHD\Lab_04\Lab_04\Task_01\obj\Debug\net7.0\Task_01.AssemblyInfo.cs
-C:\Snake\Uniwers\ATCHD\Lab_04\Lab_04\Task_01\obj\Debug\net7.0\Task_01.csproj.CoreCompileInputs.cache
